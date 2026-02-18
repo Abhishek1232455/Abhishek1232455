@@ -35,6 +35,18 @@
 </p>
 
 ---
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="assets/pull-shark-default-498c279a747d.png" width="130" title="Pull Shark"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/quickdraw-default--light-8f798b35341a.png" width="130" title="Quickdraw"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/yolo-default-be0bbff04951.png" width="130" title="YOLO"/>
+</p>
+
 
 ## 📈 Contribution Activity
 
